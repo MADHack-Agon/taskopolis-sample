@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MADHack-Agon/.github/main/img/app_icon.svg" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="250">
 
-Your to-do list app search end here.
+Use this sample app to start your tasks. Download the project as a Zip file and push your code to the given repository.
 
 - App Built with JDK 11
 
